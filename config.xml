@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "sites.themwl.org.MWL-Apps"
+        id        = "sites.themwl.org.MWL-Conference"
         version   = "1.0.0">
 
-    <name>MWL-Apps</name>
+    <name>MWL-Conference</name>
 
     <description>
-        MWL application that displays contest of web site.
+        MWL application that displays content of web site.
     </description>
 
     <author href="http://themwl.org" email="it@themwl.org">
