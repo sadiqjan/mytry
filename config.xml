@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "sites.themwl.org.MWL-Apps"
+        version   = "1.0.0">
+
+    <name>MWL-Apps</name>
+
+    <description>
+        MWL application that displays contest of web site.
+    </description>
+
+    <author href="http://themwl.org" email="it@themwl.org">
+        IT team MWL
+    </author>
+
+    <preference name="permissions"                value="none"/>
+    <!-- Define app icon for each platform. -->
+    <icon src="iconMW.png" />
+
+
+</widget>
